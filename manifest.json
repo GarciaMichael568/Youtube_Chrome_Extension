@@ -1,5 +1,5 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "YoutubeFriends",
     "description": "An extension that allows you to see your friends favorite videos!",
     "version": "1.0",
