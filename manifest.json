@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "YoutubeFriends",
-    "description": "An extension that allows you to see your friends favorite videos!",
-    "version": "1.0",
+    "name": "Youtube History",
+    "description": "An extension that displays youtube history",
+    "version": "1.0.0",
     "icons": {
         "16": "/images/icon16.png",
         "48": "/images/icon48.png",
