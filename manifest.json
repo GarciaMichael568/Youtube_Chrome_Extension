@@ -1,18 +1,14 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Youtube History",
     "description": "An extension that displays youtube history",
     "version": "1.0.0",
     "icons": {
-        "16": "/images/icon16.png",
-        "48": "/images/icon48.png",
         "128": "/images/icon128.png"
     },
-    "page_action": {
-        "default_icon": {
-            "16": "/images/icon16.png",
-            "48": "/images/icon48.png",
-            "128": "/images/icon128.png"
-        }
-    }
+   "browser_action":{
+       "default_icon": "/images/icon.png",
+       "default_popup": "popup.html"
+   },
+   "permissions": ["activeTab"]
 }
