@@ -1,5 +1,5 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "Youtube History (ノಠ益ಠ)ノ彡┻━┻",
     "description": "An extension that displays youtube history",
     "version": "1.0.0",
