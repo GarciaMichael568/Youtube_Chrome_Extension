@@ -1,0 +1,59 @@
+html,body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin: 0;
+    min-height: 540px;
+    min-width: 360px;
+    padding: 0;
+    background-color: rgb(34, 34, 34);
+    border: 1px solid rgb(50, 50, 50);
+    box-sizing: border-box;
+    
+}
+h1 {
+    font-family: 'Menlo',monospace;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0; 
+    color: #fefefe;
+    padding-top: 5px;
+    text-align: center;
+}
+p {
+    font-family: 'Menlo',monospace;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0; 
+    color: #fefefe;
+    padding-top: 5px;
+    text-align: center;
+}
+.modal-header{
+    justify-content: center;
+}
+.modal-content {
+    padding-top: 0;
+    padding-bottom: 5px;
+    padding-right: 0;
+    padding-left: 0;
+    border-bottom: 2px solid rgb(50, 50, 50)
+    
+}
+.main-content {
+    margin-top: 0;
+    height: 90vh;
+    padding: 5px;
+    overflow: hidden;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 50%;
+    object-fit: fill;
+    
+}
+.modal-headwrap {
+    backdrop-filter: blur(10px);
+}
